@@ -1,0 +1,3 @@
+It’s been two weeks since we were hired as new data engineers at Pewlett Hackard, a fictional company. Our first major task is to research employees from the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
+
+For this project, we’ll design tables to hold the data from the CSV files and import these files into a SQL database. Then, we’ll answer questions about the data, performing tasks related to data modeling, data engineering, and data analysis. This process will involve creating the database schema, loading the data, and executing various queries to extract insights.
